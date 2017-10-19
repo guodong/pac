@@ -2617,3 +2617,5 @@ function FindProxyForURL(url, host) {
   }
   return direct;
 }
+
+module.exports = FindProxyForURL;
