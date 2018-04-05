@@ -1,4 +1,4 @@
-var proxy = "SOCKS5 106.75.64.53:9999;SOCKS 106.75.64.53:9999;";
+var proxy = "SOCKS5 127.0.0.1:3333;";
 
 var domains = {
   "pinterest.com": 1,
