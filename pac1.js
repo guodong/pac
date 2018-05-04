@@ -1,6 +1,7 @@
 var proxy = "SOCKS5 127.0.0.1:4444;";
 
 var domains = {
+  "cloudfront.net": 1,
   "slack.com": 1,
   "pinterest.com": 1,
   "download.kolor.com": 1,
