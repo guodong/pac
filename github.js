@@ -1,6 +1,7 @@
 var proxy = "SOCKS5 127.0.0.1:4444;";
 
 var domains = {
+  "medium.com": 1,
   "firebaseio.com": 1,
   "github.com" :1,
   "cloudfront.net": 1,
