@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 47.244.171.11:443; SOCKS 47.244.171.11:443; DIRECT;";
 
 var rules = [
+  "||zoom.us",
   "||crazyshit.com",
   "||theme.zdassets.com",
   "||resources.jetbrains.com",
